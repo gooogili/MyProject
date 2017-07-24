@@ -1,0 +1,7 @@
+C:\Users\osiko\Desktop\ArraySorting\IModel\bin\Debug\IModel.dll
+C:\Users\osiko\Desktop\ArraySorting\IModel\bin\Debug\IModel.pdb
+C:\Users\osiko\Desktop\ArraySorting\IModel\bin\Debug\ISorter.dll
+C:\Users\osiko\Desktop\ArraySorting\IModel\bin\Debug\ISorter.pdb
+C:\Users\osiko\Desktop\ArraySorting\IModel\obj\Debug\IModel.csprojResolveAssemblyReference.cache
+C:\Users\osiko\Desktop\ArraySorting\IModel\obj\Debug\IModel.dll
+C:\Users\osiko\Desktop\ArraySorting\IModel\obj\Debug\IModel.pdb

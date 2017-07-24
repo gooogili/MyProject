@@ -1,0 +1,1000 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="exitToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
+    <value>Ctrl+Shift+Q</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="exitToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>167, 22</value>
+  </data>
+  <data name="exitToolStripMenuItem.Text" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="fileToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 23</value>
+  </data>
+  <data name="fileToolStripMenuItem.Text" xml:space="preserve">
+    <value>File</value>
+  </data>
+  <data name="aboutToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 22</value>
+  </data>
+  <data name="aboutToolStripMenuItem.Text" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="helpToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>44, 23</value>
+  </data>
+  <data name="helpToolStripMenuItem.Text" xml:space="preserve">
+    <value>Help</value>
+  </data>
+  <data name="selectLanguageToolStripComboBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 23</value>
+  </data>
+  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>338, 27</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="menuStrip1.Text" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="selectSortersCheckedListBox.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="selectSortersCheckedListBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 259</value>
+  </data>
+  <data name="selectSortersCheckedListBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>338, 139</value>
+  </data>
+  <data name="selectSortersCheckedListBox.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;selectSortersCheckedListBox.Name" xml:space="preserve">
+    <value>selectSortersCheckedListBox</value>
+  </data>
+  <data name="&gt;&gt;selectSortersCheckedListBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckedListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;selectSortersCheckedListBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;selectSortersCheckedListBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="fromDataBaseArrayLoadingButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="fromDataBaseArrayLoadingButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="fromDataBaseArrayLoadingButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 151</value>
+  </data>
+  <data name="fromDataBaseArrayLoadingButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>194, 23</value>
+  </data>
+  <data name="fromDataBaseArrayLoadingButton.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="fromDataBaseArrayLoadingButton.Text" xml:space="preserve">
+    <value>Loading array from DB</value>
+  </data>
+  <data name="&gt;&gt;fromDataBaseArrayLoadingButton.Name" xml:space="preserve">
+    <value>fromDataBaseArrayLoadingButton</value>
+  </data>
+  <data name="&gt;&gt;fromDataBaseArrayLoadingButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;fromDataBaseArrayLoadingButton.Parent" xml:space="preserve">
+    <value>selectMethodForGettingAnArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;fromDataBaseArrayLoadingButton.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="fromFileArrayLoadingButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="fromFileArrayLoadingButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="fromFileArrayLoadingButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 110</value>
+  </data>
+  <data name="fromFileArrayLoadingButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>194, 23</value>
+  </data>
+  <data name="fromFileArrayLoadingButton.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="fromFileArrayLoadingButton.Text" xml:space="preserve">
+    <value>Loading array from file</value>
+  </data>
+  <data name="&gt;&gt;fromFileArrayLoadingButton.Name" xml:space="preserve">
+    <value>fromFileArrayLoadingButton</value>
+  </data>
+  <data name="&gt;&gt;fromFileArrayLoadingButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;fromFileArrayLoadingButton.Parent" xml:space="preserve">
+    <value>selectMethodForGettingAnArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;fromFileArrayLoadingButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="fromKeyboardInputArrayButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="fromKeyboardInputArrayButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="fromKeyboardInputArrayButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 71</value>
+  </data>
+  <data name="fromKeyboardInputArrayButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>194, 23</value>
+  </data>
+  <data name="fromKeyboardInputArrayButton.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="fromKeyboardInputArrayButton.Text" xml:space="preserve">
+    <value>Enter an array manually</value>
+  </data>
+  <data name="&gt;&gt;fromKeyboardInputArrayButton.Name" xml:space="preserve">
+    <value>fromKeyboardInputArrayButton</value>
+  </data>
+  <data name="&gt;&gt;fromKeyboardInputArrayButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;fromKeyboardInputArrayButton.Parent" xml:space="preserve">
+    <value>selectMethodForGettingAnArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;fromKeyboardInputArrayButton.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="randomArrayGenerateButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="randomArrayGenerateButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="randomArrayGenerateButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 29</value>
+  </data>
+  <data name="randomArrayGenerateButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>194, 23</value>
+  </data>
+  <data name="randomArrayGenerateButton.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="randomArrayGenerateButton.Text" xml:space="preserve">
+    <value>Random generation array</value>
+  </data>
+  <data name="&gt;&gt;randomArrayGenerateButton.Name" xml:space="preserve">
+    <value>randomArrayGenerateButton</value>
+  </data>
+  <data name="&gt;&gt;randomArrayGenerateButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;randomArrayGenerateButton.Parent" xml:space="preserve">
+    <value>selectMethodForGettingAnArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;randomArrayGenerateButton.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="selectMethodForGettingAnArrayTabPage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 22</value>
+  </data>
+  <data name="selectMethodForGettingAnArrayTabPage.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="selectMethodForGettingAnArrayTabPage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>330, 206</value>
+  </data>
+  <data name="selectMethodForGettingAnArrayTabPage.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="selectMethodForGettingAnArrayTabPage.Text" xml:space="preserve">
+    <value>GettingArray</value>
+  </data>
+  <data name="&gt;&gt;selectMethodForGettingAnArrayTabPage.Name" xml:space="preserve">
+    <value>selectMethodForGettingAnArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;selectMethodForGettingAnArrayTabPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;selectMethodForGettingAnArrayTabPage.Parent" xml:space="preserve">
+    <value>mainMenuTabControl</value>
+  </data>
+  <data name="&gt;&gt;selectMethodForGettingAnArrayTabPage.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="numberOfColumnsTextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>28, 84</value>
+  </data>
+  <data name="numberOfColumnsTextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="numberOfColumnsTextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;numberOfColumnsTextBox.Name" xml:space="preserve">
+    <value>numberOfColumnsTextBox</value>
+  </data>
+  <data name="&gt;&gt;numberOfColumnsTextBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;numberOfColumnsTextBox.Parent" xml:space="preserve">
+    <value>randomGenerationArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;numberOfColumnsTextBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="numberOfRowsTextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>28, 38</value>
+  </data>
+  <data name="numberOfRowsTextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="numberOfRowsTextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;numberOfRowsTextBox.Name" xml:space="preserve">
+    <value>numberOfRowsTextBox</value>
+  </data>
+  <data name="&gt;&gt;numberOfRowsTextBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;numberOfRowsTextBox.Parent" xml:space="preserve">
+    <value>randomGenerationArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;numberOfRowsTextBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="maxArrayValueLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="maxArrayValueLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="maxArrayValueLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="maxArrayValueLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>181, 65</value>
+  </data>
+  <data name="maxArrayValueLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>93, 13</value>
+  </data>
+  <data name="maxArrayValueLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="maxArrayValueLabel.Text" xml:space="preserve">
+    <value>Max value in array</value>
+  </data>
+  <data name="&gt;&gt;maxArrayValueLabel.Name" xml:space="preserve">
+    <value>maxArrayValueLabel</value>
+  </data>
+  <data name="&gt;&gt;maxArrayValueLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;maxArrayValueLabel.Parent" xml:space="preserve">
+    <value>randomGenerationArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;maxArrayValueLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="numberOfRowsLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="numberOfRowsLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="numberOfRowsLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>25, 21</value>
+  </data>
+  <data name="numberOfRowsLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>143, 13</value>
+  </data>
+  <data name="numberOfRowsLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="numberOfRowsLabel.Text" xml:space="preserve">
+    <value>Input number of rows</value>
+  </data>
+  <data name="&gt;&gt;numberOfRowsLabel.Name" xml:space="preserve">
+    <value>numberOfRowsLabel</value>
+  </data>
+  <data name="&gt;&gt;numberOfRowsLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;numberOfRowsLabel.Parent" xml:space="preserve">
+    <value>randomGenerationArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;numberOfRowsLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="minArrayValueLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="minArrayValueLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="minArrayValueLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="minArrayValueLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>181, 20</value>
+  </data>
+  <data name="minArrayValueLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 13</value>
+  </data>
+  <data name="minArrayValueLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="minArrayValueLabel.Text" xml:space="preserve">
+    <value>Min value in array</value>
+  </data>
+  <data name="&gt;&gt;minArrayValueLabel.Name" xml:space="preserve">
+    <value>minArrayValueLabel</value>
+  </data>
+  <data name="&gt;&gt;minArrayValueLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;minArrayValueLabel.Parent" xml:space="preserve">
+    <value>randomGenerationArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;minArrayValueLabel.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="numberOfColumnsLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="numberOfColumnsLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="numberOfColumnsLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>25, 67</value>
+  </data>
+  <data name="numberOfColumnsLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>123, 13</value>
+  </data>
+  <data name="numberOfColumnsLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="numberOfColumnsLabel.Text" xml:space="preserve">
+    <value>Input number of columns</value>
+  </data>
+  <data name="&gt;&gt;numberOfColumnsLabel.Name" xml:space="preserve">
+    <value>numberOfColumnsLabel</value>
+  </data>
+  <data name="&gt;&gt;numberOfColumnsLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;numberOfColumnsLabel.Parent" xml:space="preserve">
+    <value>randomGenerationArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;numberOfColumnsLabel.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="maxArrayValueNumericUpDown.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="maxArrayValueNumericUpDown.Location" type="System.Drawing.Point, System.Drawing">
+    <value>262, 84</value>
+  </data>
+  <data name="maxArrayValueNumericUpDown.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 20</value>
+  </data>
+  <data name="maxArrayValueNumericUpDown.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;maxArrayValueNumericUpDown.Name" xml:space="preserve">
+    <value>maxArrayValueNumericUpDown</value>
+  </data>
+  <data name="&gt;&gt;maxArrayValueNumericUpDown.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;maxArrayValueNumericUpDown.Parent" xml:space="preserve">
+    <value>randomGenerationArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;maxArrayValueNumericUpDown.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="confirmForRandomArrayButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="confirmForRandomArrayButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="confirmForRandomArrayButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 157</value>
+  </data>
+  <data name="confirmForRandomArrayButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>84, 36</value>
+  </data>
+  <data name="confirmForRandomArrayButton.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="confirmForRandomArrayButton.Text" xml:space="preserve">
+    <value>Confirm</value>
+  </data>
+  <data name="&gt;&gt;confirmForRandomArrayButton.Name" xml:space="preserve">
+    <value>confirmForRandomArrayButton</value>
+  </data>
+  <data name="&gt;&gt;confirmForRandomArrayButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;confirmForRandomArrayButton.Parent" xml:space="preserve">
+    <value>randomGenerationArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;confirmForRandomArrayButton.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="minArrayValueNumericUpDown.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="minArrayValueNumericUpDown.Location" type="System.Drawing.Point, System.Drawing">
+    <value>262, 39</value>
+  </data>
+  <data name="minArrayValueNumericUpDown.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 20</value>
+  </data>
+  <data name="minArrayValueNumericUpDown.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;minArrayValueNumericUpDown.Name" xml:space="preserve">
+    <value>minArrayValueNumericUpDown</value>
+  </data>
+  <data name="&gt;&gt;minArrayValueNumericUpDown.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;minArrayValueNumericUpDown.Parent" xml:space="preserve">
+    <value>randomGenerationArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;minArrayValueNumericUpDown.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="randomGenerationArrayTabPage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 22</value>
+  </data>
+  <data name="randomGenerationArrayTabPage.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="randomGenerationArrayTabPage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>330, 206</value>
+  </data>
+  <data name="randomGenerationArrayTabPage.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="randomGenerationArrayTabPage.Text" xml:space="preserve">
+    <value>Random generator</value>
+  </data>
+  <data name="&gt;&gt;randomGenerationArrayTabPage.Name" xml:space="preserve">
+    <value>randomGenerationArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;randomGenerationArrayTabPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;randomGenerationArrayTabPage.Parent" xml:space="preserve">
+    <value>mainMenuTabControl</value>
+  </data>
+  <data name="&gt;&gt;randomGenerationArrayTabPage.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="fieldForArrayTextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>175, 38</value>
+  </data>
+  <data name="fieldForArrayTextBox.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="fieldForArrayTextBox.ScrollBars" type="System.Windows.Forms.ScrollBars, System.Windows.Forms">
+    <value>Vertical</value>
+  </data>
+  <data name="fieldForArrayTextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>140, 66</value>
+  </data>
+  <data name="fieldForArrayTextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;fieldForArrayTextBox.Name" xml:space="preserve">
+    <value>fieldForArrayTextBox</value>
+  </data>
+  <data name="&gt;&gt;fieldForArrayTextBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;fieldForArrayTextBox.Parent" xml:space="preserve">
+    <value>manuallyInputtingArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;fieldForArrayTextBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>179, 117</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 13</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>manuallyInputtingArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 21</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>143, 13</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Input number of rows</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>manuallyInputtingArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label4.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="label4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 67</value>
+  </data>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>123, 13</value>
+  </data>
+  <data name="label4.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Input number of columns</value>
+  </data>
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
+  </data>
+  <data name="&gt;&gt;label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
+    <value>manuallyInputtingArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="confirmForManuallyInputingButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="confirmForManuallyInputingButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="confirmForManuallyInputingButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 157</value>
+  </data>
+  <data name="confirmForManuallyInputingButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>84, 36</value>
+  </data>
+  <data name="confirmForManuallyInputingButton.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="confirmForManuallyInputingButton.Text" xml:space="preserve">
+    <value>Confirm</value>
+  </data>
+  <data name="&gt;&gt;confirmForManuallyInputingButton.Name" xml:space="preserve">
+    <value>confirmForManuallyInputingButton</value>
+  </data>
+  <data name="&gt;&gt;confirmForManuallyInputingButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;confirmForManuallyInputingButton.Parent" xml:space="preserve">
+    <value>manuallyInputtingArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;confirmForManuallyInputingButton.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="numberOfRowsInManuallyTextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="numberOfRowsInManuallyTextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>25, 38</value>
+  </data>
+  <data name="numberOfRowsInManuallyTextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 20</value>
+  </data>
+  <data name="numberOfRowsInManuallyTextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;numberOfRowsInManuallyTextBox.Name" xml:space="preserve">
+    <value>numberOfRowsInManuallyTextBox</value>
+  </data>
+  <data name="&gt;&gt;numberOfRowsInManuallyTextBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;numberOfRowsInManuallyTextBox.Parent" xml:space="preserve">
+    <value>manuallyInputtingArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;numberOfRowsInManuallyTextBox.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="numberOfColumnsInManuallyTextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="numberOfColumnsInManuallyTextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>25, 84</value>
+  </data>
+  <data name="numberOfColumnsInManuallyTextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 20</value>
+  </data>
+  <data name="numberOfColumnsInManuallyTextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;numberOfColumnsInManuallyTextBox.Name" xml:space="preserve">
+    <value>numberOfColumnsInManuallyTextBox</value>
+  </data>
+  <data name="&gt;&gt;numberOfColumnsInManuallyTextBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;numberOfColumnsInManuallyTextBox.Parent" xml:space="preserve">
+    <value>manuallyInputtingArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;numberOfColumnsInManuallyTextBox.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="manuallyInputtingArrayTabPage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 22</value>
+  </data>
+  <data name="manuallyInputtingArrayTabPage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>330, 206</value>
+  </data>
+  <data name="manuallyInputtingArrayTabPage.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="manuallyInputtingArrayTabPage.Text" xml:space="preserve">
+    <value>Manually inputting</value>
+  </data>
+  <data name="&gt;&gt;manuallyInputtingArrayTabPage.Name" xml:space="preserve">
+    <value>manuallyInputtingArrayTabPage</value>
+  </data>
+  <data name="&gt;&gt;manuallyInputtingArrayTabPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;manuallyInputtingArrayTabPage.Parent" xml:space="preserve">
+    <value>mainMenuTabControl</value>
+  </data>
+  <data name="&gt;&gt;manuallyInputtingArrayTabPage.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="mainMenuTabControl.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="mainMenuTabControl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 27</value>
+  </data>
+  <data name="mainMenuTabControl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>338, 232</value>
+  </data>
+  <data name="mainMenuTabControl.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;mainMenuTabControl.Name" xml:space="preserve">
+    <value>mainMenuTabControl</value>
+  </data>
+  <data name="&gt;&gt;mainMenuTabControl.Type" xml:space="preserve">
+    <value>ArraySorting.CustomTabControl, ArraySorting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;mainMenuTabControl.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;mainMenuTabControl.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>96, 96</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>338, 398</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>400, 450</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>350, 430</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Main menu</value>
+  </data>
+  <data name="&gt;&gt;fileToolStripMenuItem.Name" xml:space="preserve">
+    <value>fileToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;fileToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;exitToolStripMenuItem.Name" xml:space="preserve">
+    <value>exitToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;exitToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;helpToolStripMenuItem.Name" xml:space="preserve">
+    <value>helpToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;helpToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;aboutToolStripMenuItem.Name" xml:space="preserve">
+    <value>aboutToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;aboutToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;selectLanguageToolStripComboBox.Name" xml:space="preserve">
+    <value>selectLanguageToolStripComboBox</value>
+  </data>
+  <data name="&gt;&gt;selectLanguageToolStripComboBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>MainMenuForm</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

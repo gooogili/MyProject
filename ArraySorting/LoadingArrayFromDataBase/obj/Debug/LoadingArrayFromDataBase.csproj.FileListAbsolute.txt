@@ -1,0 +1,5 @@
+C:\Users\osiko\Documents\Visual Studio 2015\Projects\ArraySorting\LoadingArrayFromDataBase\bin\Debug\LoadingArrayFromDataBase.dll
+C:\Users\osiko\Documents\Visual Studio 2015\Projects\ArraySorting\LoadingArrayFromDataBase\bin\Debug\LoadingArrayFromDataBase.pdb
+C:\Users\osiko\Documents\Visual Studio 2015\Projects\ArraySorting\LoadingArrayFromDataBase\obj\Debug\LoadingArrayFromDataBase.csprojResolveAssemblyReference.cache
+C:\Users\osiko\Documents\Visual Studio 2015\Projects\ArraySorting\LoadingArrayFromDataBase\obj\Debug\LoadingArrayFromDataBase.dll
+C:\Users\osiko\Documents\Visual Studio 2015\Projects\ArraySorting\LoadingArrayFromDataBase\obj\Debug\LoadingArrayFromDataBase.pdb

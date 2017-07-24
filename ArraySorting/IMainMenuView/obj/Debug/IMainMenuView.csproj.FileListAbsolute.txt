@@ -1,0 +1,5 @@
+C:\Users\osiko\Desktop\ArraySorting\IMainMenuView\bin\Debug\IMainMenuView.dll
+C:\Users\osiko\Desktop\ArraySorting\IMainMenuView\bin\Debug\IMainMenuView.pdb
+C:\Users\osiko\Desktop\ArraySorting\IMainMenuView\obj\Debug\IMainMenuView.csprojResolveAssemblyReference.cache
+C:\Users\osiko\Desktop\ArraySorting\IMainMenuView\obj\Debug\IMainMenuView.dll
+C:\Users\osiko\Desktop\ArraySorting\IMainMenuView\obj\Debug\IMainMenuView.pdb

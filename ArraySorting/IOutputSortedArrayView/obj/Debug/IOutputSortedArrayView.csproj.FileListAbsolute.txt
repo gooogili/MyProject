@@ -1,0 +1,5 @@
+C:\Users\osiko\Desktop\ArraySorting\IOutputSortedArrayView\bin\Debug\IOutputSortedArrayView.dll
+C:\Users\osiko\Desktop\ArraySorting\IOutputSortedArrayView\bin\Debug\IOutputSortedArrayView.pdb
+C:\Users\osiko\Desktop\ArraySorting\IOutputSortedArrayView\obj\Debug\IOutputSortedArrayView.csprojResolveAssemblyReference.cache
+C:\Users\osiko\Desktop\ArraySorting\IOutputSortedArrayView\obj\Debug\IOutputSortedArrayView.dll
+C:\Users\osiko\Desktop\ArraySorting\IOutputSortedArrayView\obj\Debug\IOutputSortedArrayView.pdb

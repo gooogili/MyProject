@@ -1,0 +1,10 @@
+C:\Users\osiko\documents\visual studio 2015\Projects\ArraySorting\ISorter\bin\Debug\ISorter.dll
+C:\Users\osiko\documents\visual studio 2015\Projects\ArraySorting\ISorter\bin\Debug\ISorter.pdb
+C:\Users\osiko\documents\visual studio 2015\Projects\ArraySorting\ISorter\obj\Debug\ISorter.csprojResolveAssemblyReference.cache
+C:\Users\osiko\documents\visual studio 2015\Projects\ArraySorting\ISorter\obj\Debug\ISorter.dll
+C:\Users\osiko\documents\visual studio 2015\Projects\ArraySorting\ISorter\obj\Debug\ISorter.pdb
+C:\Users\osiko\Desktop\ArraySorting\ISorter\bin\Debug\ISorter.dll
+C:\Users\osiko\Desktop\ArraySorting\ISorter\bin\Debug\ISorter.pdb
+C:\Users\osiko\Desktop\ArraySorting\ISorter\obj\Debug\ISorter.csprojResolveAssemblyReference.cache
+C:\Users\osiko\Desktop\ArraySorting\ISorter\obj\Debug\ISorter.dll
+C:\Users\osiko\Desktop\ArraySorting\ISorter\obj\Debug\ISorter.pdb

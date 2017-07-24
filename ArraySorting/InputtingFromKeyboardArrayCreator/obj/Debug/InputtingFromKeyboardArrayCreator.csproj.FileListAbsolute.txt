@@ -1,0 +1,5 @@
+C:\Users\osiko\documents\visual studio 2015\Projects\ArraySorting\InputtingFromKeyboardArrayCreator\bin\Debug\InputtingFromKeyboardArrayCreator.dll
+C:\Users\osiko\documents\visual studio 2015\Projects\ArraySorting\InputtingFromKeyboardArrayCreator\bin\Debug\InputtingFromKeyboardArrayCreator.pdb
+C:\Users\osiko\documents\visual studio 2015\Projects\ArraySorting\InputtingFromKeyboardArrayCreator\obj\Debug\InputtingFromKeyboardArrayCreator.csprojResolveAssemblyReference.cache
+C:\Users\osiko\documents\visual studio 2015\Projects\ArraySorting\InputtingFromKeyboardArrayCreator\obj\Debug\InputtingFromKeyboardArrayCreator.dll
+C:\Users\osiko\documents\visual studio 2015\Projects\ArraySorting\InputtingFromKeyboardArrayCreator\obj\Debug\InputtingFromKeyboardArrayCreator.pdb

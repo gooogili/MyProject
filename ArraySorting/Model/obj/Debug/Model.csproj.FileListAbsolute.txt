@@ -1,0 +1,9 @@
+C:\Users\osiko\Desktop\ArraySorting\Model\bin\Debug\Model.dll
+C:\Users\osiko\Desktop\ArraySorting\Model\bin\Debug\Model.pdb
+C:\Users\osiko\Desktop\ArraySorting\Model\bin\Debug\IModel.dll
+C:\Users\osiko\Desktop\ArraySorting\Model\bin\Debug\ISorter.dll
+C:\Users\osiko\Desktop\ArraySorting\Model\bin\Debug\IModel.pdb
+C:\Users\osiko\Desktop\ArraySorting\Model\bin\Debug\ISorter.pdb
+C:\Users\osiko\Desktop\ArraySorting\Model\obj\Debug\Model.dll
+C:\Users\osiko\Desktop\ArraySorting\Model\obj\Debug\Model.pdb
+C:\Users\osiko\Desktop\ArraySorting\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

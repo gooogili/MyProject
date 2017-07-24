@@ -1,0 +1,13 @@
+C:\Users\osiko\Desktop\ArraySorting\MainMenuPresenter\bin\Debug\MainMenuPresenter.dll
+C:\Users\osiko\Desktop\ArraySorting\MainMenuPresenter\bin\Debug\MainMenuPresenter.pdb
+C:\Users\osiko\Desktop\ArraySorting\MainMenuPresenter\obj\Debug\MainMenuPresenter.csprojResolveAssemblyReference.cache
+C:\Users\osiko\Desktop\ArraySorting\MainMenuPresenter\obj\Debug\MainMenuPresenter.dll
+C:\Users\osiko\Desktop\ArraySorting\MainMenuPresenter\obj\Debug\MainMenuPresenter.pdb
+C:\Users\osiko\Desktop\ArraySorting\MainMenuPresenter\bin\Debug\IMainMenuView.dll
+C:\Users\osiko\Desktop\ArraySorting\MainMenuPresenter\bin\Debug\IModel.dll
+C:\Users\osiko\Desktop\ArraySorting\MainMenuPresenter\bin\Debug\ISorter.dll
+C:\Users\osiko\Desktop\ArraySorting\MainMenuPresenter\bin\Debug\IMainMenuView.pdb
+C:\Users\osiko\Desktop\ArraySorting\MainMenuPresenter\bin\Debug\IModel.pdb
+C:\Users\osiko\Desktop\ArraySorting\MainMenuPresenter\bin\Debug\ISorter.pdb
+C:\Users\osiko\Desktop\ArraySorting\MainMenuPresenter\bin\Debug\Model.dll
+C:\Users\osiko\Desktop\ArraySorting\MainMenuPresenter\bin\Debug\Model.pdb

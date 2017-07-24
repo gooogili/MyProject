@@ -1,0 +1,5 @@
+C:\Users\osiko\Documents\Visual Studio 2015\Projects\ArraySorting\ManuallyInputtingArray\bin\Debug\ManuallyInputtingArray.dll
+C:\Users\osiko\Documents\Visual Studio 2015\Projects\ArraySorting\ManuallyInputtingArray\bin\Debug\ManuallyInputtingArray.pdb
+C:\Users\osiko\Documents\Visual Studio 2015\Projects\ArraySorting\ManuallyInputtingArray\obj\Debug\ManuallyInputtingArrayCreator.csprojResolveAssemblyReference.cache
+C:\Users\osiko\Documents\Visual Studio 2015\Projects\ArraySorting\ManuallyInputtingArray\obj\Debug\ManuallyInputtingArray.dll
+C:\Users\osiko\Documents\Visual Studio 2015\Projects\ArraySorting\ManuallyInputtingArray\obj\Debug\ManuallyInputtingArray.pdb

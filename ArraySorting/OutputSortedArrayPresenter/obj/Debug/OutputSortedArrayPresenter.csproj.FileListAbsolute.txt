@@ -1,0 +1,13 @@
+C:\Users\osiko\Desktop\ArraySorting\OutputSortedArrayPresenter\bin\Debug\OutputSortedArrayPresenter.dll
+C:\Users\osiko\Desktop\ArraySorting\OutputSortedArrayPresenter\bin\Debug\OutputSortedArrayPresenter.pdb
+C:\Users\osiko\Desktop\ArraySorting\OutputSortedArrayPresenter\bin\Debug\IModel.dll
+C:\Users\osiko\Desktop\ArraySorting\OutputSortedArrayPresenter\bin\Debug\IOutputSortedArrayView.dll
+C:\Users\osiko\Desktop\ArraySorting\OutputSortedArrayPresenter\bin\Debug\ISorter.dll
+C:\Users\osiko\Desktop\ArraySorting\OutputSortedArrayPresenter\bin\Debug\Model.dll
+C:\Users\osiko\Desktop\ArraySorting\OutputSortedArrayPresenter\bin\Debug\IModel.pdb
+C:\Users\osiko\Desktop\ArraySorting\OutputSortedArrayPresenter\bin\Debug\IOutputSortedArrayView.pdb
+C:\Users\osiko\Desktop\ArraySorting\OutputSortedArrayPresenter\bin\Debug\ISorter.pdb
+C:\Users\osiko\Desktop\ArraySorting\OutputSortedArrayPresenter\bin\Debug\Model.pdb
+C:\Users\osiko\Desktop\ArraySorting\OutputSortedArrayPresenter\obj\Debug\OutputSortedArrayPresenter.csprojResolveAssemblyReference.cache
+C:\Users\osiko\Desktop\ArraySorting\OutputSortedArrayPresenter\obj\Debug\OutputSortedArrayPresenter.dll
+C:\Users\osiko\Desktop\ArraySorting\OutputSortedArrayPresenter\obj\Debug\OutputSortedArrayPresenter.pdb
